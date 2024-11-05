@@ -1,6 +1,6 @@
 # TripleDot Studios Test Task
 
-This project includes solutions for a series of tasks designed to evaluate data analysis skills for TripleDot Studios. Each task involves different aspects of data analysis, from statistical modeling and prediction to probability theory and A/B test evaluation.
+This project includes solutions for TripleDot Studios test task.
 
 ## Project Overview
 
@@ -13,7 +13,8 @@ The project consists of three main tasks:
 3. **A/B Test Analysis**  
    Analyzing A/B test results to assess statistical significance between variants.
 
-In case you want to reprocude results locally
+**The performed analysis and its outputs can be found in analysis.ipynb. If you want to reproduce the results locally, please follow the steps below**
+
 ## Installation and Running Instructions
 
 ### Prerequisites
