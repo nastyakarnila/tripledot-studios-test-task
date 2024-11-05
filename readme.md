@@ -13,7 +13,7 @@ The project consists of three main tasks:
 3. **A/B Test Analysis**  
    Analyzing A/B test results to assess statistical significance between variants.
 
-In case you want to reprocude results locatlly
+In case you want to reprocude results locally
 ## Installation and Running Instructions
 
 ### Prerequisites
